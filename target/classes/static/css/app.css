@@ -1,0 +1,46 @@
+body, #mainWrapper {
+	height: 100%;
+	background-color:rgb(245, 245, 245);
+}
+
+body, .form-control{
+	font-size:14px!important;
+}
+
+.floatLeft{
+	float:left;
+	margin-left: 18px;
+}
+
+.has-error{
+	color:red;
+}
+
+.control-lable{
+	 width:60%;
+}
+
+
+.input-sm{
+	 width:90%;
+}
+
+.panel{
+	 font-family: "Verdana", Verdana, serif;
+}
+
+.dados{
+	float: left;
+	width: 30%;
+}
+
+.lista{
+	float: left;
+   width: 70%;
+}
+
+.custom-width {
+    width: 80px !important;
+    font-size:12px!important;
+}
+
